@@ -1,0 +1,6 @@
+streamlit>=1.22
+toml
+git+https://github.com/streamlit/files-connection
+snowflake-snowpark-python[pandas]
+tabulate
+
